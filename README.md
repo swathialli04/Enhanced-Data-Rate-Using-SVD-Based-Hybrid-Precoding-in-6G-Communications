@@ -1,0 +1,1 @@
+# Enhanced-Data-Rate-Using-SVD-Based-Hybrid-Precoding-in-6G-Communications
